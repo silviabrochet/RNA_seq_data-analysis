@@ -30,3 +30,12 @@ The resulting .sam files are sorted and converted to .bam:
 
         bash bam_convert_invivo.sh
         bash bam_convert_invitro.sh
+
+Reads are filtered for quality of mapping using stringent CIGAR (= alignment length) and NM (= allowed mismatches number) parameters:
+(The script filtering_cigar_NM1.pl is also needed)
+
+        bash filtering_cigar_NM_invivo.sh
+        bash filtering_cigar_NM_invitro.sh
+        
+
+
