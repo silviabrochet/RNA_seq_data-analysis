@@ -1,0 +1,13 @@
+	Sampletype
+1	ind_G
+2	ind_G
+3	ind_G
+4	MIX_G
+5	MIX_G
+6	MIX_G
+7	ind_PE
+8	ind_PE
+9	ind_PE
+10	MIX_PE
+11	MIX_PE
+12	MIX_PE
