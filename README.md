@@ -50,3 +50,7 @@ For samples that were resequenced (for 1) sample 1, 3 and 4 and for 2) samples 5
 Finally, differential gene expression analysis is performed using EdgeR: 
 
 EdgeRanalysis_invivo.R EdgeRanalysis_invivo.R
+
+Annotations as done using 
+
+Gene_cart_COG.csv
