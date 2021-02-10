@@ -47,3 +47,6 @@ For samples that were resequenced (for 1) sample 1, 3 and 4 and for 2) samples 5
         bash merge_counts_invivo.sh
         bash merge_counts_invitro.sh
         
+Finally, differential gene expression analysis is performed using EdgeR: 
+
+EdgeRanalysis_invivo.R EdgeRanalysis_invivo.R
