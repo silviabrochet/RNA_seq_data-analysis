@@ -23,3 +23,10 @@ First the reference genome is indexed:
 
 Then the mapping done on the indexed genome reference:
 
+        bash bowtie2_invivo.sh
+        bash bowtie2_invitro.sh
+        
+The resulting .sam files are sorted and converted to .bam:
+
+        bash bam_convert_invivo.sh
+        bash bam_convert_invitro.sh
