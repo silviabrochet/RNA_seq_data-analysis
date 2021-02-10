@@ -8,5 +8,9 @@ Reads are trimmed with trimmomatic settings (for single-end reads):
 
         LEADING:30 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
   
+For the in vivo experiment only, reads are splitted into rRNA reads and non-rRNA reads using sortmerna.
 
+        bash sortmerna_invivo.sh
+        
 
+     
