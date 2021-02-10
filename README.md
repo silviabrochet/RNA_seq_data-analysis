@@ -37,5 +37,13 @@ Reads are filtered for quality of mapping using stringent CIGAR (= alignment len
         bash filtering_cigar_NM_invivo.sh
         bash filtering_cigar_NM_invitro.sh
         
+Count files are generated using HtSeq:
 
+        bash htseq_invivo.sh
+        bash htseq_invitro.sh
+        
+For samples that were resequenced (for 1) sample 1, 3 and 4 and for 2) samples 5, 10, 15, 20, 25, 30) at this point the counts files are merged for the two sequencing runs:
 
+        bash merge_counts_invivo.sh
+        bash merge_counts_invitro.sh
+        
