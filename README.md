@@ -12,5 +12,10 @@ For the in vivo experiment only, reads are splitted into rRNA reads and non-rRNA
 
         bash sortmerna_invivo.sh
         
+Only non-rRNA reads were used for the following steps of the analysis. The results are found in the .log files. The reads passing the threshold are the ones which correspond to the rRNA, the others are non-RNA.
 
-     
+Reads are then mapped (for both 1 and 2) to a reference genome using bowtie2.
+
+First the reference genome is indexed:
+
+        bowtie2-build mega_genome.fa MIX_GENOME
