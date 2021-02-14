@@ -1,5 +1,7 @@
 # RNA_seq_data-analysis
 
+Data available at https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE166724
+
 Code to analyse bacterial transcriptome data
 
 This code is used to analyse data (fastq files) from 1) an in vivo RNA sequencing experiment and 2) an in vitro RNA sequencing experiment with slight changes between the two procedures.
