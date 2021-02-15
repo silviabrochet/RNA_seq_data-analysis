@@ -1,0 +1,28 @@
+COG	A	RNA processing and modification	0
+COG	C	Energy production and conversion	59
+COG	B	Chromatin structure and dynamics	0
+COG	E	Amino acid transport and metabolism	113
+COG	D	Cell cycle control, cell division, chromosome partitioning	25
+COG	G	Carbohydrate transport and metabolism	241
+COG	F	Nucleotide transport and metabolism	60
+COG	I	Lipid transport and metabolism	59
+COG	H	Coenzyme transport and metabolism	58
+COG	K	Transcription	117
+COG	J	Translation, ribosomal structure and biogenesis	177
+COG	M	Cell wall/membrane/envelope biogenesis	82
+COG	L	Replication, recombination and repair	76
+COG	O	Posttranslational modification, protein turnover, chaperones	38
+COG	N	Cell motility	6
+COG	Q	Secondary metabolites biosynthesis, transport and catabolism	16
+COG	P	Inorganic ion transport and metabolism	55
+COG	S	Function unknown	78
+COG	R	General function prediction only	108
+COG	U	Intracellular trafficking, secretion, and vesicular transport	12
+COG	T	Signal transduction mechanisms	57
+COG	W	Extracellular structures	0
+COG	V	Defense mechanisms	51
+COG	Y	Nuclear structure	0
+COG	X	Mobilome: prophages, transposons	19
+COG	Z	Cytoskeleton	0
+No COG			420
+Total COG			1361
