@@ -10,4 +10,4 @@ Annotation = file containing differentially regulated genes obtained with previo
 
 Summary files are merged together to have one for each condition including the four strains and then they are processed to obtain plots using the R script COG_distributions.R
 
-For the enrichment analysis of COG categories: see enrichment_analysis_readme.txt in enrichment_analysis folder. 
+For the enrichment analysis of COG categories: see enrichment_analysis folder. 
