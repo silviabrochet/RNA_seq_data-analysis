@@ -56,3 +56,12 @@ EdgeRanalysis_invivo.R EdgeRanalysis_invivo.R
 Annotations as done using 
 
 Gene_cart_COG.csv
+
+For 
+- Analysis of COG categories distribution among differentially regulated genes 
+and for 
+- Analysis of enrichment among differentially regulated genes of COG categories using fisher exact test
+
+See folder COGanalysis : contains R scripts and readme files
+
+
