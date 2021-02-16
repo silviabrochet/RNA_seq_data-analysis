@@ -64,4 +64,5 @@ and for
 
 See folder COGanalysis : contains R scripts and readme files
 
+For Gene families indentification see folder = Gene_families
 
